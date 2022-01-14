@@ -1,0 +1,3 @@
+[submodule "replicate/hbn_actigraphy_scripts"]
+	path = replicate/hbn_actigraphy_scripts
+	url = https://github.com/hotavocado/hbn_actigraphy_scripts.git
